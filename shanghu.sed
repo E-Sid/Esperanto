@@ -11,3 +11,9 @@ s/hh/ĥ/
 s/jh/ĵ/
 s/uh/ŭ/
 s/sh/ŝ/
+s/Ch/Ĉ/
+s/Gh/Ĝ/
+s/Hh/Ĥ/
+s/Jh/Ĵ/
+s/Uh/Ŭ/
+s/Sh/Ŝ/
